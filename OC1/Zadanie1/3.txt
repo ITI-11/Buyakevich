@@ -1,0 +1,6 @@
+@ECHO OFF
+CLS
+CD C:\Users\User\AppData\Local\Temp>
+DEL *.tmp & DEL *.bak
+ECHO
+PAUSE
